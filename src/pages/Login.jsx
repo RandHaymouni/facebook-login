@@ -38,6 +38,56 @@ const Login = () => {
                 </div>
             </section>
             <footer>
+                <div className='contener mx-auto px-60 py-10 relative left-11'>
+                    <ul className='flex text-xs gap-3 flex-wrap text-gray-500'>
+                        <li><a href="#" className='inline-block hover:underline text-gray-800'>English (US)</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>العربية</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Français (France)</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Deutsch</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Русский</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Bahasa Indonesia</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Español</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Português (Brasil)</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Italiano</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>हिन्दी</a></li>
+                        <a href="#" className='inline-block hover:underline'><PiPlusSquare className='w-5 h-5 relative -top-1' /></a>
+                    </ul>
+                    <hr className='m-2' />
+                    <ul className='flex text-xs gap-3 align-middle flex-wrap text-gray-500'>
+                        <li><a href="#" className='inline-block hover:underline'>Sign Up</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Log In</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Messenger</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Facebook Lite</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Video</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Places</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Games</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Marketplace</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Meta Pay</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Meta Store</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Meta Quest</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Meta AI</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Threads</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Fundraisers</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Services</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Voting Information Center</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Privacy Policy</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Privacy Center</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Groups</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>About</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Create ad</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Create Page</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Developers</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Careers</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Cookies</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Ad choices</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Terms</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Help</a></li>
+                        <li><a href="#" className='inline-block hover:underline'>Contact Uploading & Non-UsersSettings</a></li>
+                    </ul>
+                    <div className='flex text-xs align-middle flex-wrap text-gray-800 py-5'>
+                        <span>Meta © 2024</span>
+                    </div>
+                </div>
             </footer>
         </div>
     )
