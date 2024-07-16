@@ -26,7 +26,7 @@ const Login = () => {
                             <div>
                                 <a
                                     href="#"
-                                    className='bg-green-600 p-3 flex justify-center items-center font-bold rounded-md text-white mx-auto w-44 m-3'>
+                                    className='bg-green-600 p-2 flex justify-center items-center font-bold rounded-md text-white mx-auto w-44 m-3'>
                                     Creat new account
                                 </a>
                             </div>
